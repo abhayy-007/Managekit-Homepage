@@ -1,0 +1,13 @@
+.finding_bar {
+  background-color: peachpuff;
+  display: flex;
+  justify-content: space-between;
+  border: black;
+  padding: 13px;
+  font-size: 22px;
+}
+input {
+  border-color: transparent;
+  background-color: peachpuff;
+  font-size: 22px;
+}

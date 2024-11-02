@@ -1,0 +1,93 @@
+* {
+  font-family: sans-serif;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 2px 1px #80808052;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+h2 {
+  font-size: 33px;
+  cursor: pointer;
+}
+p {
+  font-size: 15px;
+}
+.account {
+  display: flex;
+  padding-top: 20px;
+}
+.login_acc {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-right: 20px;
+  padding-left: 22px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin-right: 10px;
+  width: 85px;
+  height: 40px;
+  cursor: pointer;
+}
+.signup_acc {
+  border: 1px solid black;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  padding-right: 20px;
+  padding-left: 22px;
+  padding-bottom: 5px;
+  text-align: center;
+  width: 85px;
+  height: 40px;
+  cursor: pointer;
+}
+.writing {
+  font-size: 75px;
+  font-weight: bolder;
+  padding-top: 280px;
+  padding-left: 60px;
+}
+.paragraph {
+  color: grey;
+  padding-top: 42px;
+  padding-left: 60px;
+  font-size: 28px;
+}
+.buttons {
+  display: flex;
+  padding-top: 42px;
+  padding-left: 60px;
+  font-size: 20px;
+}
+.button_design {
+  border: 1px solid black;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  padding-top: 12px;
+  text-align: center;
+  width: 225px;
+  height: 37px;
+  cursor: pointer;
+}
+.button_design1 {
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  background-color: white;
+  margin-left: 10px;
+  padding-top: 12px;
+  text-align: center;
+  width: 225px;
+  height: 37px;
+  cursor: pointer;
+}
+img {
+  padding-top: 5%;
+  /* width: 100%; */
+  margin-right: 43px;
+  max-width: 840px;
+}
